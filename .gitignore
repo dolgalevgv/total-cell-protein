@@ -1,0 +1,12 @@
+# Files
+*.xlsx
+*.docx
+*.png
+*.pdf
+
+# Folders
+/data
+/results
+
+# Jupyter checkpoints
+.ipynb_checkpoints
